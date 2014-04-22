@@ -1,3 +1,6 @@
-This is a test, can anyone see me?!
+<<<<<<< .mineZ: This is a test, can anyone see me?!
 
-Cliff can see you!  Cliff sees all.
+N: Nope, not a word.
+=======This is a test, can anyone see me?!
+
+Cliff can see you!  Cliff sees all.>>>>>>> .theirs
